@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # project1
+=======
+# fathima
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
 
 A new Flutter project.
 

@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="project1"
+=======
+        android:label="fathima"
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
