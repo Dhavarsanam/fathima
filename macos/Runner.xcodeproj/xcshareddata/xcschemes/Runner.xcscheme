@@ -15,7 +15,15 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "valli.app"
+=======
+<<<<<<< HEAD
+               BuildableName = "project1.app"
+=======
+               BuildableName = "fathima.app"
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
+>>>>>>> 1a784c53211931164e49f313df141b6e078d3adb
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +39,15 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "valli.app"
+=======
+<<<<<<< HEAD
+            BuildableName = "project1.app"
+=======
+            BuildableName = "fathima.app"
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
+>>>>>>> 1a784c53211931164e49f313df141b6e078d3adb
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +82,15 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "valli.app"
+=======
+<<<<<<< HEAD
+            BuildableName = "project1.app"
+=======
+            BuildableName = "fathima.app"
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
+>>>>>>> 1a784c53211931164e49f313df141b6e078d3adb
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +107,15 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "valli.app"
+=======
+<<<<<<< HEAD
+            BuildableName = "project1.app"
+=======
+            BuildableName = "fathima.app"
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
+>>>>>>> 1a784c53211931164e49f313df141b6e078d3adb
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

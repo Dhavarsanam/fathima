@@ -1,6 +1,16 @@
 {
+<<<<<<< HEAD
     "name": "valli",
     "short_name": "valli",
+=======
+<<<<<<< HEAD
+    "name": "project1",
+    "short_name": "project1",
+=======
+    "name": "fathima",
+    "short_name": "fathima",
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
+>>>>>>> 1a784c53211931164e49f313df141b6e078d3adb
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

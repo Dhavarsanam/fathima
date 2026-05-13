@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # valli
+=======
+<<<<<<< HEAD
+# project1
+=======
+# fathima
+>>>>>>> 14f5c76e0746de48960f713f573f9df995234d29
+>>>>>>> 1a784c53211931164e49f313df141b6e078d3adb
 
 A new Flutter project.
 
